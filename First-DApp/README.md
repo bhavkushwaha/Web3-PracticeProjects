@@ -1,5 +1,9 @@
 # hello
 
+<img width="956" alt="Screenshot 2023-01-28 003209" src="https://user-images.githubusercontent.com/75977991/215176232-b6d93fce-4fb0-4184-876f-43c47ba4e02b.png">
+<img width="959" alt="Screenshot 2023-01-28 003303" src="https://user-images.githubusercontent.com/75977991/215176263-1c3df797-984a-461d-b828-9d8cef7d0de2.png">
+
+
 Welcome to your new hello project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
