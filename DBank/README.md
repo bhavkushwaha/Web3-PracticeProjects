@@ -1,5 +1,11 @@
 # dbank
 
+<b>dbank - with compound Interest</b><br>
+
+<img width="960" alt="Screenshot 2023-01-28 143831" src="https://user-images.githubusercontent.com/75977991/215265085-e3814546-0e3a-49a6-a023-e7cf75fdf2c2.png">
+<img width="916" alt="Screenshot 2023-01-28 163105" src="https://user-images.githubusercontent.com/75977991/215265092-140b03bf-b3de-424e-b495-7f4abbb1e7e2.png">
+
+
 Welcome to your new dbank project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
