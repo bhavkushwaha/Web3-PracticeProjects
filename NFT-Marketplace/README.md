@@ -1,18 +1,8 @@
+# NFT-Marketplace
+<img width="937" alt="Screenshot 2023-01-29 140519" src="https://user-images.githubusercontent.com/75977991/215341262-6dc749c4-3f25-4565-ad55-cedb504053c9.png">
+<img width="938" alt="Screenshot 2023-01-29 151838" src="https://user-images.githubusercontent.com/75977991/215341270-68da83b8-35c8-4071-8bff-3ed8b88cbbe4.png">
+<img width="938" alt="Screenshot 2023-01-29 174206" src="https://user-images.githubusercontent.com/75977991/215341274-7b226441-90d6-4b7c-87bf-37121d7056a5.png">
 
-The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
-you may not use this project except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-Here is the TL;DR version of the above licence:
-https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
 
 # To Install and Run the Project
 
